@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#2D231F;}
+	.st2{fill:#1F1613;}
+	.st3{fill:#4F3F39;}
+	.st4{fill:#5F5F60;}
+</style>
+<radialGradient id="SVGID_1_" cx="50" cy="51.99" r="48.7" gradientTransform="matrix(1 0 0 -1 0 102)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#5570A0"/>
+	<stop  offset="1" style="stop-color:#5276A0;stop-opacity:0"/>
+</radialGradient>
+<circle class="st0" cx="50" cy="50" r="48.7"/>
+<g>
+	<g>
+		<path class="st1" d="M34.1,79c-2.6,0-5.4-1.5-7.2-3.3c-0.6-0.7-0.6-1.7,0-2.3c0.7-0.6,1.7-0.6,2.3,0.1c1.7,1.8,4.3,2.7,5.8,2.2
+			c1.3-0.5,1.7-2.2,1.7-3.6c0.3-7-1-8.9-1-9c-0.6-0.7-0.5-1.7,0.1-2.3c0.7-0.6,1.7-0.5,2.4,0.1c0.4,0.4,2.2,2.9,1.8,11.2
+			c-0.2,4.5-2.5,6.1-3.8,6.6C35.5,78.8,34.8,79,34.1,79z"/>
+	</g>
+	<g>
+		<path class="st1" d="M72.8,79.5C72.8,79.5,72.8,79.5,72.8,79.5c-3.9-0.1-10.5-0.7-11.7-3.6c-0.3-0.7-0.5-2.1,1-3.7
+			c2.2-2.4,3.5-6.4,3.5-11.3l1.6-0.1l1.6,0.1c0,5.7-1.5,10.5-4.4,13.5c-0.1,0.1-0.2,0.2-0.2,0.3c0.9,0.7,4.8,1.4,8.6,1.5
+			c0.9,0,1.6,0.8,1.6,1.7C74.5,78.8,73.7,79.5,72.8,79.5z"/>
+	</g>
+	<path class="st2" d="M37.7,61.9c0,0,13.5-12.3,29.5,0l-3.9-21.7l-23.6-2.1L37.7,61.9z"/>
+	<path class="st3" d="M33.7,51.6c0,0-2.1-21.7,19.3-28.8c0,0,19.2,3.8,18.7,28.8c-0.4,17.8-6.8,12-7.8,5.1
+		c-1.4-9.2-16.9-8.6-20.9-2.7c-2.9,4.2-2,9.6-8,9.6C31.9,63.6,33.7,54.3,33.7,51.6z"/>
+	<circle class="st4" cx="40.7" cy="41.1" r="2.2"/>
+	<circle class="st4" cx="39.2" cy="47.5" r="2.2"/>
+	<circle class="st4" cx="66.2" cy="42.1" r="2.2"/>
+	<circle class="st4" cx="67.7" cy="48.5" r="2.2"/>
+	<path class="st1" d="M42.3,28.9c0,0,10,2.8,10.6,13.2h2.2c0,0,0.1-12.1,8.9-12.8c0,0-1.5-5-11.6-7.8C52.5,21.5,43.8,24.1,42.3,28.9
+		z"/>
+</g>
+</svg>

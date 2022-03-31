@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<radialGradient id="SVGID_1_" cx="50.4892" cy="51.9828" r="48.7" gradientTransform="matrix(1 0 0 -1 0 102)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#9754A1"/>
+	<stop  offset="1" style="stop-color:#8E53A1;stop-opacity:0"/>
+</radialGradient>
+<circle fill="url(#SVGID_1_)" cx="50.49" cy="50.02" r="48.7"/>
+<g>
+	<g>
+		<path fill="#E08926" d="M50.49,76.37c-15.06,0-27.32-10.73-27.32-23.92s12.26-23.92,27.32-23.92c15.07,0,27.32,10.73,27.32,23.92
+			S65.55,76.37,50.49,76.37z M50.49,35.05c-11.47,0-20.8,7.8-20.8,17.4c0,9.59,9.33,17.4,20.8,17.4s20.8-7.8,20.8-17.4
+			C71.29,42.86,61.96,35.05,50.49,35.05z"/>
+	</g>
+	<g>
+		<path fill="#FAAB68" d="M50.49,81.03c-15.06,0-27.32-10.73-27.32-23.92s12.26-23.92,27.32-23.92c15.07,0,27.32,10.73,27.32,23.92
+			S65.55,81.03,50.49,81.03z M50.49,39.71c-11.47,0-20.8,7.8-20.8,17.4c0,9.59,9.33,17.4,20.8,17.4s20.8-7.8,20.8-17.4
+			C71.29,47.51,61.96,39.71,50.49,39.71z"/>
+	</g>
+	<g>
+		<g>
+			
+				<rect x="40.25" y="15.66" transform="matrix(6.123234e-17 -1 1 6.123234e-17 19.1451 82.618)" fill="#4FB25D" width="21.26" height="32.15"/>
+		</g>
+		<g>
+			
+				<rect x="43.12" y="15.03" transform="matrix(6.123234e-17 -1 1 6.123234e-17 24.1141 77.6489)" fill="#6AC074" width="15.52" height="23.47"/>
+		</g>
+		<g>
+			<polygon fill="#9CD08F" points="39.15,19.01 34.81,21.11 34.81,42.36 39.15,34.53 			"/>
+		</g>
+		<g>
+			<polygon fill="#5DAA5D" points="62.62,34.53 66.95,42.36 66.95,21.11 62.62,19.01 			"/>
+		</g>
+		<g>
+			<polygon fill="#498E48" points="34.81,42.36 38.18,44.57 64.78,44.57 66.95,42.36 			"/>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#BBDEAF" points="39.15,25.11 48.13,34.53 54.86,34.53 39.15,19.01 		"/>
+	</g>
+	<g>
+		<polygon fill="#6AC074" points="42.16,34.53 50.3,42.36 53.75,42.36 45.89,34.53 		"/>
+	</g>
+	<g>
+		<polygon fill="#6AC074" points="49.06,34.53 57.2,42.36 60.65,42.36 52.79,34.53 		"/>
+	</g>
+	<g>
+		<polygon fill="#BBDEAF" points="39.15,19.01 39.15,19.9 60.65,19.9 60.65,34.53 62.62,34.53 62.62,19.01 		"/>
+	</g>
+	<g>
+		<path fill="#BBDEAF" d="M57.34,19.9"/>
+	</g>
+</g>
+</svg>

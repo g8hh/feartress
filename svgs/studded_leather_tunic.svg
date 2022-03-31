@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#4D3E38;}
+	.st2{fill:#42342E;}
+	.st3{fill:#3D302B;}
+	.st4{fill:#151515;}
+	.st5{fill:none;}
+	.st6{fill:#5E5E5E;}
+	.st7{fill:#2B221E;}
+</style>
+<radialGradient id="SVGID_1_" cx="49.87" cy="49.52" r="48.7" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#5470A0"/>
+	<stop  offset="1" style="stop-color:#5176A0;stop-opacity:0"/>
+</radialGradient>
+<circle class="st0" cx="49.9" cy="49.5" r="48.7"/>
+<g>
+	<path class="st1" d="M26.6,37c0,0-4.2,3-5.8,11.9c0,0,3.4,5.2,11.7,4.1s1.5-12.6,1.5-12.6L26.6,37z"/>
+	<path class="st1" d="M74.2,37c0,0,4.2,3,5.8,11.9c0,0-3.4,5.2-11.7,4.1s-1.5-12.6-1.5-12.6L74.2,37z"/>
+	<path class="st2" d="M68,73.4c0,0-5.4,6.4-17.6,6.4s-17.6-6.4-17.6-6.4l1-17C33.4,47.2,35,43,35,43l3.7-6l11.8,0.7L62.2,37l3.7,6
+		c0,0,1.6,4.1,1.2,13.4L68,73.4z"/>
+	<path class="st3" d="M36.8,27.8c0,0-7.2-1.7-12.6,8.3c0,0,7.2,5.9,8.2,10.3c0,0,7.6,0.5,13.7-7.4S36.8,27.8,36.8,27.8z"/>
+	<path class="st3" d="M64,27.8c0,0,7.2-1.7,12.6,8.3c0,0-7.2,5.9-8.2,10.3c0,0-7.6,0.5-13.7-7.4S64,27.8,64,27.8z"/>
+	<path class="st1" d="M57.5,22.7h-7.1h-7.1l-6.4,5.1c0,0,5.5,12,13.6,12.6C58.5,39.8,64,27.8,64,27.8L57.5,22.7z"/>
+	<ellipse class="st1" cx="50.4" cy="26.8" rx="9.1" ry="6.6"/>
+	<ellipse class="st4" cx="50.4" cy="29.3" rx="9.1" ry="6.6"/>
+	<path class="st5" d="M36.8,27.8"/>
+	<circle class="st6" cx="37" cy="54" r="1.7"/>
+	<circle class="st6" cx="68.6" cy="32.4" r="1.7"/>
+	<circle class="st6" cx="64.3" cy="38.8" r="1.7"/>
+	<circle class="st6" cx="36.7" cy="59.5" r="1.7"/>
+	<circle class="st6" cx="36.3" cy="65.1" r="1.7"/>
+	<circle class="st6" cx="36" cy="70.6" r="1.7"/>
+	<circle class="st6" cx="63.4" cy="54" r="1.7"/>
+	<circle class="st6" cx="63.7" cy="59.5" r="1.7"/>
+	<path class="st7" d="M36.8,27.8c0,0,7.4,25.4,30.7,37.3c4.4,2.3,0.5,7.4,0.5,7.4s-22.7-6.2-37.9-43.2
+		C30.1,29.3,29.5,24.3,36.8,27.8z"/>
+</g>
+</svg>
