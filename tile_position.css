@@ -1,0 +1,366 @@
+#t1-overlay {
+    left: 175px; 
+    top: 20px;
+}
+
+#t2-overlay {
+    left: 210px; 
+    top: 40px;
+}
+
+#t3-overlay {
+    left: 245px; 
+    top: 60px;
+}
+
+#t4-overlay {
+    left: 280px; 
+    top: 80px;
+}
+
+#t5-overlay {
+    left: 315px; 
+    top: 100px;
+}
+
+#t6-overlay {
+    left: 350px; 
+    top: 120px;
+}
+
+#t7-overlay {
+    left: 385px; 
+    top: 140px;
+}
+
+#t8-overlay {
+    left: 420px; 
+    top: 160px;
+}
+
+#t9-overlay {
+    left: 140px; 
+    top: 40px;
+}
+
+#t10-overlay {
+    left: 175px; 
+    top: 60px;
+}
+
+#t11-overlay {
+    left: 210px; 
+    top: 80px;
+}
+
+#t12-overlay {
+    left: 245px; 
+    top: 100px;
+}
+
+#t13-overlay {
+    left: 280px; 
+    top: 120px;
+}
+
+#t14-overlay {
+    left: 315px; 
+    top: 140px;
+}
+
+#t15-overlay {
+    left: 350px; 
+    top: 160px;
+}
+
+#t16-overlay {
+    left: 385px; 
+    top: 180px;
+}
+
+#t17-overlay {
+    left: 105px; 
+    top: 60px;
+}
+
+#t18-overlay {
+    left: 140px; 
+    top: 80px;
+    z-index: 1;
+}
+
+#t19-overlay {
+    left: 175px; 
+    top: 100px;
+    z-index: 1;
+}
+
+#t20-overlay {
+    left: 210px; 
+    top: 120px;
+    z-index: 1;
+}
+
+#t21-overlay {
+    left: 245px; 
+    top: 140px;
+    z-index: 1;
+}
+
+#t22-overlay {
+    left: 280px; 
+    top: 160px;
+    z-index: 1;
+}
+
+#t23-overlay {
+    left: 315px; 
+    top: 180px;
+    z-index: 1;
+}
+
+#t24-overlay {
+    left: 350px; 
+    top: 200px;
+    z-index: 1;
+}
+
+#t25-overlay {
+    left: 70px; 
+    top: 80px;
+    z-index: 1;
+}
+
+#t26-overlay {
+    left: 105px; 
+    top: 100px;
+    z-index: 1;
+}
+
+#t27-overlay {
+    left: 140px; 
+    top: 120px;
+    z-index: 1;
+}
+
+#t28-overlay {
+    left: 175px; 
+    top: 140px;
+    z-index: 1;
+}
+
+#t29-overlay {
+    left: 210px; 
+    top: 160px;
+    z-index: 1;
+}
+
+#t30-overlay {
+    left: 245px; 
+    top: 180px;
+    z-index: 1;
+}
+
+#t31-overlay {
+    left: 280px; 
+    top: 200px;
+    z-index: 1;
+}
+
+#t32-overlay {
+    left: 315px; 
+    top: 220px;
+    z-index: 1;
+}
+
+#t33-overlay {
+    left: 35px; 
+    top: 100px;
+    z-index: 1;
+}
+
+#t34-overlay {
+    left: 70px; 
+    top: 120px;
+    z-index: 1;
+}
+
+#t35-overlay {
+    left: 105px; 
+    top: 140px;
+    z-index: 1;
+}
+
+#t36-overlay {
+    left: 140px; 
+    top: 160px;
+    z-index: 1;
+}
+
+#t37-overlay {
+    left: 175px; 
+    top: 180px;
+    z-index: 1;
+}
+
+#t38-overlay {
+    left: 210px; 
+    top: 200px;
+    z-index: 1;
+}
+
+#t39-overlay {
+    left: 245px; 
+    top: 220px;
+    z-index: 1;
+}
+
+#t40-overlay {
+    left: 280px; 
+    top: 240px;
+    z-index: 1;
+}
+
+#t41-overlay {
+    left: 0px; 
+    top: 120px;
+    z-index: 1;
+}
+
+#t42-overlay {
+    left: 35px; 
+    top: 140px;
+    z-index: 1;
+}
+
+#t43-overlay {
+    left: 70px; 
+    top: 160px;
+    z-index: 1;
+}
+
+#t44-overlay {
+    left: 105px; 
+    top: 180px;
+    z-index: 1;
+}
+
+#t45-overlay {
+    left: 140px; 
+    top: 200px;
+    z-index: 1;
+}
+
+#t46-overlay {
+    left: 175px; 
+    top: 220px;
+    z-index: 1;
+}
+
+#t47-overlay {
+    left: 210px; 
+    top: 240px;
+    z-index: 1;
+}
+
+#t48-overlay {
+    left: 245px; 
+    top: 260px;
+    z-index: 1;
+}
+
+#t49-overlay {
+    left: -35px; 
+    top: 140px;
+    z-index: 1;
+}
+
+#t50-overlay {
+    left: 0px; 
+    top: 160px;
+    z-index: 1;
+}
+
+#t51-overlay {
+    left: 35px; 
+    top: 180px;
+    z-index: 1;
+}
+
+#t52-overlay {
+    left: 70px; 
+    top: 200px;
+    z-index: 1;
+}
+
+#t53-overlay {
+    left: 105px; 
+    top: 220px;
+    z-index: 1;
+}
+
+#t54-overlay {
+    left: 140px; 
+    top: 240px;
+    z-index: 1;
+}
+
+#t55-overlay {
+    left: 175px; 
+    top: 260px;
+    z-index: 1;
+}
+
+#t56-overlay {
+    left: 210px; 
+    top: 280px;
+    z-index: 1;
+}
+
+#t57-overlay {
+    left: -70px; 
+    top: 160px;
+    z-index: 1;
+}
+
+#t58-overlay {
+    left: -35px; 
+    top: 180px;
+    z-index: 1;
+}
+
+#t59-overlay {
+    left: 0px; 
+    top: 200px;
+    z-index: 1;
+}
+
+#t60-overlay {
+    left: 35px; 
+    top: 220px;
+    z-index: 1;
+}
+
+#t61-overlay {
+    left: 70px; 
+    top: 240px;
+    z-index: 1;
+}
+
+#t62-overlay {
+    left: 105px; 
+    top: 260px;
+    z-index: 1;
+}
+
+#t63-overlay {
+    left: 140px; 
+    top: 280px;
+    z-index: 1;
+}
+
+#t64-overlay {
+    left: 175px; 
+    top: 300px;
+    z-index: 1;
+}
