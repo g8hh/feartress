@@ -508,6 +508,32 @@ header {
     background: white;
 }
 
+.get-on-steam-container {
+    position: absolute;
+    background-color: rgb(58, 51, 68);
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 25px;
+    width: 190px;
+    top: 100px;
+    left: -5px;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(192, 152, 236);
+}
+
+.get-on-steam-container:hover {
+    background-color: rgb(98, 88, 112);
+}
+
+.get-on-steam-container:active {
+    background-color: rgb(50, 46, 56);
+    transform: scaleX(0.9);
+    transform-origin: right;
+}
+
 #cleared-board-text {
     width: 500px;
     margin-top: 20px;
@@ -4725,10 +4751,17 @@ header {
     .ad-container {
         display: none;
     }
+
+    .get-on-steam-container {
+        left: -5px;
+    }
 }
 
 @media screen and (max-width: 900px) {
     #links-container {
+        display: none;
+    }
+    .get-on-steam-container {
         display: none;
     }
 }

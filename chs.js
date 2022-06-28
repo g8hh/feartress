@@ -573,7 +573,7 @@ var cnItems = {
     "Hide Tunic": "隐藏外套",
     "Blessed Steel Armor of Mining": "采矿的祝福钢铁盔甲",
     "Frosty Amethyst Orb of Mining": "冰霜紫水晶矿球",
-    "": "",
+    "Get the full version on Steam!": "在 Steam 上获取完整版！",
     "": "",
     "": "",
     "": "",
