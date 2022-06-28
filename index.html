@@ -346,7 +346,6 @@
     <link rel='preload' as='image' href='./image_files/warehouse.png'>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-422T9NPRGM" defer></script>
     <script defer>
         window.dataLayer = window.dataLayer || [];
@@ -355,15 +354,14 @@
 
         gtag('config', 'G-422T9NPRGM');
     </script>
--->
 
     <script src='combat.js' defer></script>
     <script type="module" src='master.js' defer></script>
 </head>
 
-<body oncontextmenu="return false;">
-<script src="chs.js?202106041511"></script>
-<script src="//g8hh.com/zh/core.js"></script>
+<body>
+    <script src="chs.js"></script>
+    <script src="//g8hh.com/zh/core.js"></script>
     <div class="black-screen display-none">Loading...</div>
     <div id='loading-screen'>Loading...
         <div id='loading-progress-container'>
@@ -449,16 +447,17 @@
     <div id='moving-building-container'></div>
 
     <div class="main">
-        <!--<div class="ad-container">
+        <div class="ad-container">
             <script async
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2764370321673363"
                 crossorigin="anonymous"></script>
+            <!-- 160 by 600 -->
             <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px"
                 data-ad-client="ca-pub-2764370321673363" data-ad-slot="6506793590"></ins>
             <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
-        </div>-->
+        </div>
         <!-- the header background serves to hold the backdrop-filter: blur to increase performance -->
         <div class="header-background"></div>
         <div id='header-container'>
@@ -648,7 +647,16 @@
                     </div>
                 </div>
                 <div id='header-menu-container'>
+                    <a href="https://store.steampowered.com/app/1904280/Feartress/" target='_blank'>
+                        <div class="get-on-steam-container">
+                            Get the full version on Steam!
+                            <div class="close-get-on-steam-btn"></div>
+                        </div>
+                    </a>
                     <div id='links-container'>
+                        <a href='https://store.steampowered.com/app/1904280/Feartress/' target='_blank'>
+                            <img class='link-icon' src='svgs/steam_logo.svg'></img>
+                        </a>
                         <a href='https://discord.com/invite/97mah38Wwz' target='_blank'>
                             <img class='link-icon' src='svgs/discord_logo.svg'></img>
                         </a>
@@ -658,7 +666,7 @@
                     </div>
 
                     <div id='reset-container'>
-                        <div id='version-container'>V. 0.2.19</div>
+                        <div id='version-container'>V. 0.2.20</div>
                         <div id='elapsed-time-container'>
                             <p id='elapsed-time'>00:00:00:00</p>
                         </div>
@@ -5426,23 +5434,23 @@
             </div>
         </div>
     </div>
-</body>
-
-</html>
 <!--客服 开始-->
 <script src="//g8hh.com/static/js/jquery.min.js"></script>
 <link rel="stylesheet" href="//g8hh.com/static/css/kf.css" type="text/css" media="screen" charset="utf-8">
 <script src="//g8hh.com/static/js/kf.js"></script>
 <!-- 客服 结束 -->
 <!--站长统计-->
-    <div style="display: none">
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?dbb7ff142f4d4b68546c93b9cd6e9328";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-    </div>
+<div style="display: none">
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?dbb7ff142f4d4b68546c93b9cd6e9328";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+        </div>
+</body>
+
+</html>
